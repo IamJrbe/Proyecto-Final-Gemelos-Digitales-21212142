@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Andres Martin
+    family-names: Banuelos Elias
+    email: l21212142@tectijuana.edu.mx
+    affiliation: Instituto tectnologico Tijuana
+repository-code: >-
+  https://github.com/IamJrbe/Proyecto-Final-Gemelos-Digitales-21212142
+abstract: |-
+  Tecnologico Nacional de México 
+  Instituto Tecnologico de Tijuana
+  Ingeniería Biomédica 
+  Gemelos Digitales
+  Proyecto final-Gemelo Digital
+keywords:
+  - HIV modeling
+  - Ordinary differential equations
+  - Nonlinear regression
+  - Numerical simulation
+  - Local stability
+  - Heun's method
+license: BSD-2-Clause
