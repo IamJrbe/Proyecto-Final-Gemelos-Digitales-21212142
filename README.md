@@ -29,7 +29,7 @@ Este trabajo demuestra cómo un modelo matemático bien parametrizado puede capt
 6. Predecir el comportamiento futuro del sistema.
 
 7. Visualizar y analizar los resultados dinámicos.
-8. 
+
 ## Docente
 Dr. Paul A. Valle
 
